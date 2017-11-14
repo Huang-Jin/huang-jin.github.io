@@ -12,6 +12,11 @@
 ```markdown
 -name 参数 查找这个文件，支持模糊查找,不指明路径即为当前路径下  
 ```
+### put 用于psftp上传数据,支持模糊匹配
+```markdown
+-r 递归上传,一般用于上传文件夹
+```
+
 
 ## Library
 ```markdown
